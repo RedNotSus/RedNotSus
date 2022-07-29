@@ -24,4 +24,3 @@
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://dsc.gg/bakasussybot)
 
 <img src="https://komarev.com/ghpvc/?username=Rednotsus&label=Views&color=0e75b6&style=flat" alt="Rednotsus">
-![](https://hit.yhype.me/github/profile?user_id=88468801)
