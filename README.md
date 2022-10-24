@@ -13,7 +13,7 @@
 ## **Stats:**
 
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DuroCodes&show_icons=true&theme=dracula&locale=en&layout=compact"> -->
-<img src="https://github-profile-trophy.vercel.app/?username=Rednotsuss&no-frame=false&theme=dracula&column=4&row=1">
+<img src="https://github-profile-trophy.vercel.app/?username=Rednotsus&no-frame=false&theme=dracula&column=4&row=1">
 
 ---
 [![Discord Presence](https://lanyard.cnrad.dev/api/735641273477890178)](https://discord.com/users/735641273477890178)
