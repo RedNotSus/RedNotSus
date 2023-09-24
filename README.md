@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hello%2C+I+am+Rednotsus;Discord+Bot+developer;Talk+to+me+on+discord!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=759BC5&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Hey%2C+Im+Rednotsus;Developer+of+55gms;Discord+bot+developer)](https://git.io/typing-svg)
 
 ---
 
