@@ -7,6 +7,7 @@
 - [Python](https://www.python.org/)
 - [React](https://reactjs.org/)
 - [Node](https://nodejs.org/)
+- [HTML,CSS,JS](https://nodejs.org/)
 
 ---
 
